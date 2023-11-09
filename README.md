@@ -12,5 +12,7 @@
 
 - 🌐 See my website for more details about my research and interests: [https://abhi0395.github.io/](https://abhi0395.github.io/)
 
+- 📫 See my updated CV at : [https://github.com/abhi0395/mycv](https://github.com/abhi0395/mycv)
+
 ### Have a great day!
 
