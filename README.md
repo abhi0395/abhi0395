@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to meet you!
 
-- 🔭 I'm an astrophysicist working with the [Dark Energy Survey Instrument (DESI)](https://www.desi.lbl.gov/) collaboration at Lawrence Berkeley National Lab, Berkeley, CA, USA. I am a core DESI data system, management, and galaxy quasar science group member.
+- 🔭 I'm an astrophysicist (postdoc) working with the [Dark Energy Survey Instrument (DESI)](https://www.desi.lbl.gov/) collaboration at Lawrence Berkeley National Lab, Berkeley, CA, USA. I am a core DESI data system, management, and galaxy quasar science group member.
   
 - 🌱 I work with large astronomical datasets, especially images and spectra of galaxies and quasars, to extract physical properties that can offer insights into their formation and evolution. I am also deeply interested in developing efficient and optimized algorithms and tools to analyze astronomical datasets and perform statistical studies, particularly spectral reduction, modelling galaxy spectra and measuring their distances/redshifts. I use a combination of machine learning algorithms (such as PCA, NMF, regression, and statistical learning) and physical models to perform detailed studies of astronomical data sets.
   
