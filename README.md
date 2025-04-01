@@ -65,13 +65,4 @@ I'm an active contributor to the [Dark Energy Survey Instrumentation (DESI) GitH
 
 ---
 
-## Contact Me
-
-[![Website](https://img.shields.io/badge/Website-abhi0395.github.io-0A0A0A?logo=google-chrome&logoColor=blue)](https://abhi0395.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijeet%20Anand-blue?logo=linkedin)](https://www.linkedin.com/in/abhijeet-anand-iisc/)
-[![X](https://img.shields.io/badge/X-@aanand__03-000000?logo=x&logoColor=white)](https://x.com/aanand_03)
-[![Email](https://img.shields.io/badge/Email-abhijeetanand2011@gmail.com-D14836?logo=gmail&logoColor=blue)](mailto:abhijeetanand2011@gmail.com)
-
----
-
 Thanks for visiting! Have a great day! 
