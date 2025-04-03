@@ -44,6 +44,9 @@ I'm always excited to collaborate on **data science** and **astronomy** projects
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=abhi0395)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi0395&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
