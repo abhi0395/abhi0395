@@ -63,7 +63,7 @@ I'm an active contributor to the [Dark Energy Survey Instrumentation (DESI) GitH
 
 ## My CV and Resume
 
-[![CV](https://img.shields.io/badge/CV-abhi0395%2Fmycv-24292e?logo=github)](https://github.com/abhi0395/mycv)
+[![CV](https://img.shields.io/badge/CV-PDF-red?logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/cv_pubs.pdf)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/abhi0395/mycv/main-pdf/tex/resume.pdf)
 
 ---
