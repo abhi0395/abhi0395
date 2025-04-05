@@ -48,6 +48,10 @@ I'm always excited to collaborate on **data science** and **astronomy** projects
 -->
 <!-- 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v1.0.4](https://github.com/abhi0395/qsoabsfind/releases/tag/v1.0.4) in [abhi0395/qsoabsfind](https://github.com/abhi0395/qsoabsfind)
+2. 🎉 Merged PR [#2](https://github.com/abhi0395/qsoabsfind/pull/2) in [abhi0395/qsoabsfind](https://github.com/abhi0395/qsoabsfind)
+3. 💪 Opened PR [#2](https://github.com/abhi0395/qsoabsfind/pull/2) in [abhi0395/qsoabsfind](https://github.com/abhi0395/qsoabsfind)
+4. 🎉 Merged PR [#7](https://github.com/abhi0395/mycv/pull/7) in [abhi0395/mycv](https://github.com/abhi0395/mycv)
 <!--END_SECTION:activity-->
 
 
