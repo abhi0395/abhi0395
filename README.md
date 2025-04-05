@@ -38,10 +38,13 @@ I'm always excited to collaborate on **data science** and **astronomy** projects
 
 ## My GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi0395&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi0395&layout=compact&theme=default" alt="Top Languages" height="150"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi0395&show_icons=true&theme=default" alt="GitHub Stats" height="160" style="display: inline-block; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi0395&layout=compact&theme=default" alt="Top Languages" height="160" style="display: inline-block; margin: 10px;" />
+  <img src="https://streak-stats.demolab.com?user=abhi0395&theme=default&hide_border=true" alt="GitHub Streak" height="160" style="display: inline-block; margin: 10px;" />
 </div>
+
+
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi0395&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/abhi0395)
 
