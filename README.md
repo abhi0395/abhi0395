@@ -45,6 +45,10 @@ I'm always excited to collaborate on **data science** and **astronomy** projects
 ![Profile Visits](https://komarev.com/ghpvc/?username=abhi0395)
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v1.0.4](https://github.com/abhi0395/qsoabsfind/releases/tag/v1.0.4) in [abhi0395/qsoabsfind](https://github.com/abhi0395/qsoabsfind)
+2. 🎉 Merged PR [#2](https://github.com/abhi0395/qsoabsfind/pull/2) in [abhi0395/qsoabsfind](https://github.com/abhi0395/qsoabsfind)
+3. 💪 Opened PR [#2](https://github.com/abhi0395/qsoabsfind/pull/2) in [abhi0395/qsoabsfind](https://github.com/abhi0395/qsoabsfind)
+4. 🎉 Merged PR [#7](https://github.com/abhi0395/mycv/pull/7) in [abhi0395/mycv](https://github.com/abhi0395/mycv)
 <!--END_SECTION:activity-->
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi0395&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
