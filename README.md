@@ -6,14 +6,14 @@ I'm an **astrophysicist and data scientist** at [**Lawrence Berkeley National La
 
 ## What I Do
 
-- Analyze massive spectroscopic datasets of galaxies and quasars from surveys like **DESI**
+- Analyze massive time-series-like data to detect features and patterns. Helped build the largest 3D map of our Universe (as part of **DESI** team)
 - Develop **efficient, scalable algorithms** for:
-  - Spectral reduction and continuum fitting
-  - Modeling galaxy spectra and redshift estimation
+  - Multi-class classification of noisy data, designing and maintaining parallelized I/O pipelines
+  - Parallelizable ML and statistics-based methods to detect patterns and local feature detection
   - Statistical inference and physical interpretation
 - Combine **machine learning** (PCA, NMF, regression, statistical learning) with physical models
-- Work in Python, Jupyter Notebooks, Bash scripting; experienced with **HPC**, **Slurm**, and **GPU clusters**
-- Study the **formation and evolution of galaxies** through emission and absorption features
+- Work in Python, Jupyter Notebooks, Bash scripting; experienced with **HPC**, **Slurm**, and **CPU clusters**
+- Study the **formation and evolution of galaxies** through observational probes
 
 ---
 
