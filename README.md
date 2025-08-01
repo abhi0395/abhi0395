@@ -1,6 +1,6 @@
 # 👋 Hi there — I'm Abhijeet Anand!
 
-I'm an **astrophysicist and data scientist** at [**Lawrence Berkeley National Lab (LBNL)**](https://www.lbl.gov), working with the [**Dark Energy Spectroscopic Instrument (DESI)**](https://www.desi.lbl.gov/) collaboration. As a core member of DESI's data systems, management, and science teams, I explore the cosmos using one of the most ambitious and extensive spectroscopic surveys to date.
+I'm an **astrophysicist and data scientist** at [**Lawrence Berkeley National Lab (LBNL)**](https://www.lbl.gov), working with the [**Dark Energy Spectroscopic Instrument (DESI)**](https://www.desi.lbl.gov/) collaboration. As one of the [builders](https://www.desi.lbl.gov/collaboration/desi-builders/) and a core member of DESI's data systems, management, and science teams, I explore the cosmos using one of the most ambitious and extensive spectroscopic surveys on the planet.
 
 ---
 
@@ -13,7 +13,7 @@ I'm an **astrophysicist and data scientist** at [**Lawrence Berkeley National La
   - Statistical inference and physical interpretation
 - Combine **machine learning** (PCA, NMF, regression, statistical learning) with physical models
 - Work in Python, Jupyter Notebooks, Bash scripting; experienced with **HPC**, **Slurm**, and **CPU clusters**
-- Study the **formation and evolution of galaxies** through observational probes
+- Study the **formation and evolution of galaxies** through observational and computational probes
 
 ---
 
@@ -52,11 +52,12 @@ I'm always excited to collaborate on **data science** and **astronomy** projects
 
 ## Selected Open Source Contributions
 
-I'm an active contributor to the [Dark Energy Survey Instrumentation (DESI) GitHub Organization](https://github.com/desihub), where I’ve helped resolve issues and open pull requests across multiple key repositories:
+I'm an active developer and contributor to the [Dark Energy Survey Instrumentation (DESI) GitHub Organization](https://github.com/desihub), where I’ve helped resolve issues and open pull requests across multiple key repositories:
 
 - [redrock](https://github.com/desihub/redrock): Spectral redshift fitting for DESI
 - [desispec](https://github.com/desihub/desispec): Spectroscopic pipeline and tools for DESI
 - [desisurveyops](https://github.com/desihub/desisurveyops): Survey operations, planning, and observing support for DESI
+- [desihub](https://github.com/desihub): Primary codebase of DESI survey
 
 ---
 
