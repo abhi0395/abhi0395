@@ -1,6 +1,6 @@
 # 👋 Hi there — I'm Abhijeet Anand!
 
-I'm an **astrophysicist and data scientist** at [**Lawrence Berkeley National Lab (LBNL)**](https://www.lbl.gov), working with the [**Dark Energy Spectroscopic Instrument (DESI)**](https://www.desi.lbl.gov/) collaboration. As one of the [builders](https://www.desi.lbl.gov/collaboration/desi-builders/) and a core member of DESI's data systems, management, and science teams, I explore the cosmos using one of the most ambitious and extensive spectroscopic surveys on the planet.
+I am currently an **astrophysicist and data scientist** at the [**Inter-University Centre for Astronomy and Astrophysics (IUCAA)**](https://en.wikipedia.org/wiki/Inter-University_Centre_for_Astronomy_and_Astrophysics). Previously, I was an **postdoctoral fellow** at [**Lawrence Berkeley National Lab (LBNL)**](https://www.lbl.gov), working with the [**Dark Energy Spectroscopic Instrument (DESI)**](https://www.desi.lbl.gov/) collaboration. As one of the [builders](https://www.desi.lbl.gov/collaboration/desi-builders/) and a core member of DESI's data systems, management, and science teams, I explore the cosmos using one of the most ambitious and extensive spectroscopic surveys on the planet.
 
 ---
 
